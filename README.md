@@ -6,9 +6,9 @@ Funcionalidades
 - Seleção de serviço RENAVAM
 - Identificação do requerente
 - Upload dinâmico de documentos
-- Validações de CPF, RENAVAM e Chassi
 - Geração automática de PDF
 - Compatível com Portal de Serviços SENATRAN
+- Não ira armazenar dados
 Tecnologias
 - HTML5
 - CSS3

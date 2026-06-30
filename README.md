@@ -9,6 +9,7 @@ Funcionalidades
 - Geração automática de PDF
 - Compatível com Portal de Serviços SENATRAN
 - Não ira armazenar dados
+
 Tecnologias
 - HTML5
 - CSS3
